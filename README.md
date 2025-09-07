@@ -46,7 +46,7 @@ bootstrap-todo-app/
 
 ##**▶️ How to Run**
 
-[Link Text](git clone https://github.com/YOUR-USERNAME/bootstrap-todo-app.git)
+[Link Text](git clone https://github.com/SmartSneha2026/bootstrap-todo-app.git)
 
 Open the folder:
 
